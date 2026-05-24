@@ -1,4 +1,4 @@
-# FaceGuard API
+# Face Liveness & Verification API
 
 A standalone FastAPI service for face verification, liveness scoring, and passport-photo to live-frame face matching. It is designed to sit behind your main backend as a private internal service.
 
